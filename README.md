@@ -81,7 +81,6 @@ robot = RobotEmployee()
 print(human.work()) # is give -> human working
 print(human.eat())  # is give -> human eating
 print(robot.work()) # is give -> robot working
-print(robot.eat())  # is give -> 
 ```
 <br>
 <h3>Polymorphism</h3>
