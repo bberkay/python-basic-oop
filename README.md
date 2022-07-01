@@ -2,7 +2,7 @@
 <p>Basic OOP examples in Python</p>
 <hr>
 <h3>Encapsilation</h3>
-```python
+```
 class Bank:
     def __init__(self, age, money):
         self.age = age # this is accessible
