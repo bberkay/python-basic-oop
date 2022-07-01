@@ -17,7 +17,6 @@ class Bank:
 #print(customer.money) is give -> AtributeError: 'Bank' object has no attribute 'money'
 #print(customer.getMoney()) -> 1000
 ```
-
 <br>
 <h3>Inheritance</h3>
 
@@ -46,7 +45,6 @@ class Monkey(Animal):
 #print(monkey.breathe()) -> animal is breathing
 #print(monkey.climb()) -> monkey is climbing
 ```
-
 <br>
 <h3>Abstraction</h3>
 
@@ -78,7 +76,6 @@ class RobotEmployee(Company):
 #print(human.eat())
 #print(robot.work())
 ```
-
 <br>
 <h3>Polymorphism</h3>
 
