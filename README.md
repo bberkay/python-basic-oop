@@ -1,5 +1,11 @@
-<h2>Python Basic OOP examples</h2>
-<p>Basic OOP examples in Python</p>
+<h2>Basic OOP examples in Python</h2>
+<p>Principles of OOP</p>
+<ul>
+    <li>Encapsulation</li>
+    <li>Inheritance</li>
+    <li>Abstraction</li>
+    <li>Polymorphism</li>
+</ul>
 <hr>
 <h3>Encapsilation</h3>
 
