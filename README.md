@@ -2,8 +2,8 @@
 <p>Basic OOP examples in Python</p>
 <hr>
 <h3>Encapsilation</h3>
-```
 
+```python
 class Bank:
     def __init__(self, age, money):
         self.age = age # this is accessible
@@ -16,10 +16,11 @@ class Bank:
 #print(customer.age) -> 20
 #print(customer.money) is give -> AtributeError: 'Bank' object has no attribute 'money'
 #print(customer.getMoney()) -> 1000
-
 ```
+
 <br>
 <h3>Inheritance</h3>
+
 ```python
 class Animal:
     def __init__(self):
@@ -45,8 +46,10 @@ class Monkey(Animal):
 #print(monkey.breathe()) -> animal is breathing
 #print(monkey.climb()) -> monkey is climbing
 ```
+
 <br>
 <h3>Abstraction</h3>
+
 ```python
 from abc import ABC, abstractmethod # abstaction is imported
 
@@ -75,8 +78,10 @@ class RobotEmployee(Company):
 #print(human.eat())
 #print(robot.work())
 ```
+
 <br>
 <h3>Polymorphism</h3>
+
 ```python
 class Vehicle:
     def toString(self):
