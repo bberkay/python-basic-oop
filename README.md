@@ -12,10 +12,10 @@ class Bank:
     def getMoney(self):
         return self.__money # but can return
 
-#customer = Bank(20, 1000)
-#print(customer.age) -> 20
-#print(customer.money) is give -> AtributeError: 'Bank' object has no attribute 'money'
-#print(customer.getMoney()) -> 1000
+customer = Bank(20, 1000)
+print(customer.age)       # is give -> 20
+print(customer.money)      # is give -> AtributeError: 'Bank' object has no attribute 'money'
+print(customer.getMoney()) # is give -> 1000
 ```
 <br>
 <h3>Inheritance</h3>
@@ -40,10 +40,10 @@ class Monkey(Animal):
     def climb(self):
         print("monkey climbing")
 
-#monkey = Monkey()
-#print(monkey) -> animal is created | monkey is created
-#print(monkey.breathe()) -> animal is breathing
-#print(monkey.climb()) -> monkey is climbing
+monkey = Monkey()
+print(monkey)           # is give -> animal is created & monkey is created
+print(monkey.breathe()) # is give -> animal is breathing
+print(monkey.climb())   # is give -> monkey is climbing
 ```
 <br>
 <h3>Abstraction</h3>
@@ -70,11 +70,12 @@ class RobotEmployee(Company):
     def work(self):
         print("robot working")
 
-#human = HumanEmployee()
-#robot = RobotEmployee()
-#print(human.work())
-#print(human.eat())
-#print(robot.work())
+human = HumanEmployee()
+robot = RobotEmployee()
+print(human.work()) # is give -> human working
+print(human.eat())  # is give -> human eating
+print(robot.work()) # is give -> robot working
+print(robot.eat())  # is give -> 
 ```
 <br>
 <h3>Polymorphism</h3>
@@ -88,8 +89,8 @@ class Airplane(Vehicle):
     def toString(self): # this method override toString method in Vehicle
         print("Airplane is flying")
 
-#vehicle = Vehicle()
-#airplane = Airplane()        
-#print(vehicle.toString()) -> Vehicle is moving
-#print(airplane.toString()) -> Airplane is flying
+vehicle = Vehicle()
+airplane = Airplane()        
+print(vehicle.toString())  # is give -> Vehicle is moving
+print(airplane.toString()) # is give -> Airplane is flying
 ```
