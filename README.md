@@ -3,6 +3,7 @@
 <hr>
 <h3>Encapsilation</h3>
 ```python
+
 class Bank:
     def __init__(self, age, money):
         self.age = age # this is accessible
@@ -15,6 +16,7 @@ class Bank:
 #print(customer.age) -> 20
 #print(customer.money) is give -> AtributeError: 'Bank' object has no attribute 'money'
 #print(customer.getMoney()) -> 1000
+
 ```
 <br>
 <h3>Inheritance</h3>
