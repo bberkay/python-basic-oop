@@ -13,7 +13,7 @@ class Bank:
         return self.__money # but can return
 
 customer = Bank(20, 1000)
-print(customer.age)       # is give -> 20
+print(customer.age)        # is give -> 20
 print(customer.money)      # is give -> AtributeError: 'Bank' object has no attribute 'money'
 print(customer.getMoney()) # is give -> 1000
 ```
