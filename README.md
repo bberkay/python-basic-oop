@@ -11,7 +11,6 @@
     <li>Abstraction</li>
     <li>Polymorphism</li>
 </ul>
-<hr>
 <h3>Encapsilation</h3>
 
 ```python
