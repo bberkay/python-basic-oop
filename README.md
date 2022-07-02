@@ -1,4 +1,9 @@
 <h2>Basic OOP with easy examples in Python for beginners</h2>
+<ol>
+    <li>OOP</li>
+    <li>OOP Principles</li>
+</ol>
+<hr>
 <p>Principles of OOP</p>
 <ul>
     <li>Encapsulation</li>
