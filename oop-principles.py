@@ -1,4 +1,4 @@
-######################  Encapsilation #######################
+######################  Encapsulation #######################
 
 class Bank:
     def __init__(self, age, money):
