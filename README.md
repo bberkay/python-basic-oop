@@ -1,7 +1,7 @@
 <h2>Basic OOP with easy examples in Python for beginners</h2>
 <ol>
-    <li>OOP</li>
-    <li>OOP Principles</li>
+    <li><a href = "">OOP</a></li>
+    <li><a href = "">OOP Principles</a></li>
 </ol>
 <hr>
 <h3>Principles of OOP</h3>
