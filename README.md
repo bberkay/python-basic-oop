@@ -1,7 +1,7 @@
 <h1>Basic OOP with easy examples in Python for beginners</h1>
 <ol>
-    <li><a href = "https://github.com/bberkay/python-basic-oop#oop">What is OOP?</a></li>
-    <li><a href = "https://github.com/bberkay/python-basic-oop#principles-of-oop">What is OOP Principles?</a></li>
+    <li><a href = "https://github.com/bberkay/python-basic-oop#what-is-oop">What is OOP?</a></li>
+    <li><a href = "https://github.com/bberkay/python-basic-oop#what-is-principles-of-oop">What is OOP Principles?</a></li>
 </ol>
 <hr>
 <h2>What is OOP?</h2>
