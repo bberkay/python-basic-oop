@@ -14,7 +14,7 @@
     <li>Abstraction</li>
     <li>Polymorphism</li>
 </ul>
-<h3>Encapsilation</h3>
+<h3>Encapsulation</h3>
 
 ```python
 class Bank:
