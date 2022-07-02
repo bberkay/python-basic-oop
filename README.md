@@ -1,4 +1,4 @@
-<h2>Basic OOP with easy examples in Python</h2>
+<h2>Basic OOP with easy examples in Python for beginners</h2>
 <p>Principles of OOP</p>
 <ul>
     <li>Encapsulation</li>
