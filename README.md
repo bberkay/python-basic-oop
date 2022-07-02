@@ -1,6 +1,6 @@
 <h2>Basic OOP with easy examples in Python for beginners</h2>
 <ol>
-    <li><a href = "">OOP</a></li>
+    <li><a href = "https://github.com/bberkay/python-basic-oop#oop">OOP</a></li>
     <li><a href = "https://github.com/bberkay/python-basic-oop/blob/main/README.md#principles-of-oop">OOP Principles</a></li>
 </ol>
 <hr>
