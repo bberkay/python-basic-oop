@@ -1,13 +1,13 @@
-<h2>Basic OOP with easy examples in Python for beginners</h2>
+<h1>Basic OOP with easy examples in Python for beginners</h1>
 <ol>
     <li><a href = "https://github.com/bberkay/python-basic-oop#oop">OOP</a></li>
     <li><a href = "https://github.com/bberkay/python-basic-oop#principles-of-oop">OOP Principles</a></li>
 </ol>
 <hr>
-<h3>OOP</h3>
+<h2>OOP</h2>
 
 <hr>
-<h3>Principles of OOP</h3>
+<h2>Principles of OOP</h2>
 <ul>
     <li>Encapsulation</li>
     <li>Inheritance</li>
