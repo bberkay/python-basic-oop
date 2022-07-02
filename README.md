@@ -4,7 +4,7 @@
     <li>OOP Principles</li>
 </ol>
 <hr>
-<p>Principles of OOP</p>
+<h3>Principles of OOP</h3>
 <ul>
     <li>Encapsulation</li>
     <li>Inheritance</li>
