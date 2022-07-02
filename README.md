@@ -4,6 +4,9 @@
     <li><a href = "https://github.com/bberkay/python-basic-oop/blob/main/README.md#principles-of-oop">OOP Principles</a></li>
 </ol>
 <hr>
+<h3>OOP</h3>
+
+<hr>
 <h3>Principles of OOP</h3>
 <ul>
     <li>Encapsulation</li>
