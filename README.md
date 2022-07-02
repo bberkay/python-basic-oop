@@ -26,7 +26,7 @@ print(rect2_area) # is give -> 8
 rect2_perimeter = getPerimeter(2,4)
 print(rect2_perimeter) # is give -> 12
 ```
-<ul><li>what if i want add volume function i must add height for every rectangle and i must call function for every rectangle with their length and width this is annoying and an unnecessarily long process</li></ul>
+<ul><li>What if i want add volume function i must add height for every rectangle and i must call function for every rectangle with their length and width this is annoying and an unnecessarily long process</li></ul>
 
 ```python
 # example for volume
@@ -70,7 +70,7 @@ rect2 = Rectangle(2, 4)
 print(rect2.getArea())      # is give -> 8
 print(rect2.getPerimeter()) # is give -> 12
 ```
-<ul><li>what if i want add volume function i add height for every rectangle object and i must call function for every rectangle but i don't need with their length and width</li></ul>
+<ul><li>What if i want add volume function i add height for every rectangle object and i must call function for every rectangle but i don't need with their length and width</li></ul>
 
 ```python
 print(rect1.getVolume(6)) # just height
