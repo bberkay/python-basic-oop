@@ -40,7 +40,6 @@ rect2_volume = getVolume(2, 4) # again 2, 4 what if i don't remember length or a
 print(rect2_volume)
 # and as seen i must create volume-area-perimeter variables for every rectangle
 ```
-<br>
 <h3>OOP</h3>
 
 ```python
