@@ -1,7 +1,7 @@
 <h1>Basic OOP with easy examples in Python for beginners</h1>
 <ol>
     <li><a href = "https://github.com/bberkay/python-basic-oop#what-is-oop">What is OOP?</a></li>
-    <li><a href = "https://github.com/bberkay/python-basic-oop#what-is-principles-of-oop">What is OOP Principles?</a></li>
+    <li><a href = "https://github.com/bberkay/python-basic-oop#what-are-principles-of-oop">What are OOP Principles?</a></li>
 </ol>
 <hr>
 <h2>What is OOP?</h2>
@@ -77,7 +77,7 @@ print(rect2.getVolume(8)) # just height
 # and as seen i don't need create volume-area-perimeter variables for every rectangle i call them if i need them.
 ```
 <hr>
-<h2>What is Principles of OOP?</h2>
+<h2>What are Principles of OOP?</h2>
 <ul>
     <li>Encapsulation</li>
     <li>Inheritance</li>
